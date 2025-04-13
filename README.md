@@ -11,6 +11,9 @@ This Pomodoro timer script is designed to help you stay focused while managing y
     ```
 
     study_minutes: Time allocated for a study session (default is 25 minutes).
+   
     short_break_minutes: Time allocated for a short break (default is 5 minutes).
+   
     long_break_interval: Number of study sessions after which a long break will occur (default is 2). Use 0 to disable long breaks entirely.
+   
     long_break_minutes: Time allocated for a long break (default is 20 minutes).
